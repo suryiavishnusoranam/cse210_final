@@ -110,7 +110,7 @@ namespace FinalProject
                         Console.WriteLine(activity6.EndMessage())
                 }
             
-                // Game completion command
+                // Exit command (for option 7: quit)
                 else
                 {
                     Console.WriteLine("Thank you for using the Simple Games Gallery!");
