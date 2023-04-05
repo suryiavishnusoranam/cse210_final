@@ -13,7 +13,7 @@ namespace FinalProject
                 Console.WriteLine("6. Start Maths Game");
                 Console.WriteLine("7. Quit");
 
-                Console.WriteLine("What would you like to do? (1-6)");
+                Console.WriteLine("What would you like to do? (1-7)");
                 string _vsSelection = Console.ReadLine();
 
                 // Activities
