@@ -1,3 +1,6 @@
+using System;
+// This is the parent class. All of the child classes will use attributes and methods from this class.
+
 namespace FinalProject
 {
     public class Activity
