@@ -30,7 +30,6 @@ namespace FinalProject
         {
             return _vsDescription;
         }
-
         public void SetDescription(string vsdescription)
         {
             _vsDescription = vsdescription;
